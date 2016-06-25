@@ -34,3 +34,4 @@
 2. Milanesas, papas y camotes al horno.
 3. Hervir ravioles y choclo.
 4. Apios e hinojos crudos, en porciones individuales.
+5. Cortar los panes en rodajas grandes, como si fuera para bruschettas
