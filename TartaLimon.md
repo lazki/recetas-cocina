@@ -3,10 +3,10 @@
 
 ## Masa
 ### Ingredientes
-* 220g de harina leudante
+* 300g de harina leudante
 * 130g de manteca
 * 3 yemas
-* 4 cucharadas de azúcar
+* 60g cucharadas de azúcar
 ### Preparación
 * Encender el horno al mínimo.
 * Derretir un poco la manteca, puede ser en microondas o al fuego.
@@ -14,17 +14,17 @@
 * Ir agregando la harina de a poco, revolviendo con una cuchara de madera.
 * Una vez incorporada toda la harina, volcar en mesada y amasar hasta tener una masa homogénea, y ligeramente arenosa.
 * Distribuir con los dedos en la tartera, dejando un poco más de espesor de masa en la unión de la pared vertical con la placa horizontal de la tartera, para que no se quiebre al servir.
-* Cocinar a fuego suave mientras preparamos la crema. No debe dorarse la masa, sólo cocinarse un poco para ganar rigidez, ya que luego vuelve al horno para secar el merengue.
+* Cocinar a fuego suave mientras preparamos la crema.
 
 ## Crema
 ### Ingredientes
-* 1/2 taza de harina
-* 2 cucharadas de fécula de maíz
+* 80g taza de harina 0000
+* 20g de uhfécula de maíz
 * 3 yemas
 * 200g de azúcar
-* 2 tazas de agua caliente
+* 400ml tazas de agua tibia
 * ralladura de cáscara de un limón
-* 2 cucharadas de manteca
+* 30g manteca derretida
 * jugo de 2 limones
 ### Preparación
 * En un jarro de un litro o un poco más, mezclar las yemas, azúcar, manteca, e ir incorporando harina progresivamente, revolviendo con una cuchara de madera.
@@ -35,9 +35,8 @@
 * Una vez cocinado, y ya lista la masa, volcamos en la tartera. Debería llegar hasta casi el borde. Llevamos a la heladera para enfriar mientras hacemos el merengue.
 ## Merengue
 ### Ingredientes
-* 6 claras (son las que sobraron de masa y crema)
-* media taza de azúcar
-* una cucharadita de cremor tártaro
+* 3 claras (aprox 100g)
+* 200g de azúcar
 ### Preparación
 * Batir las claras e ir incorporando el azúcar y el cremor tártaro, hasta lograr un punto nieve.
 * Con una manga, aplicar sobre la superficie de la crema. La crema ya debe estar fría para que tenga algo de rigidez, si no, será complicado aplicar el merengue.
