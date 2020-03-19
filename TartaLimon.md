@@ -6,7 +6,7 @@
 * 300g de harina leudante
 * 130g de manteca
 * 3 yemas
-* 60g cucharadas de azúcar
+* 60g de azúcar
 ### Preparación
 * Encender el horno al mínimo.
 * Derretir un poco la manteca, puede ser en microondas o al fuego.
