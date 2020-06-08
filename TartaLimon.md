@@ -1,5 +1,6 @@
 # Lemon Pie
-(para una tartera circular de 25 x 5 cm)
+
+Receta para una tartera circular de 25 x 5 cm.
 
 ## Masa
 ### Ingredientes
@@ -18,11 +19,11 @@
 
 ## Crema
 ### Ingredientes
-* 80g taza de harina 0000
-* 20g de uhfécula de maíz
+* 80g de harina 0000
+* 20g de fécula de maíz
 * 3 yemas
 * 200g de azúcar
-* 400ml tazas de agua tibia
+* 400ml de agua tibia
 * ralladura de cáscara de un limón
 * 30g manteca derretida
 * jugo de 2 limones
