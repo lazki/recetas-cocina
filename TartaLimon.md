@@ -38,7 +38,13 @@ Receta para una tartera circular de 25 x 5 cm.
 ### Ingredientes
 * 3 claras (aprox 100g)
 * 200g de azúcar
-### Preparación
-* Batir las claras e ir incorporando el azúcar y el cremor tártaro, hasta lograr un punto nieve.
+### Preparación en horno microondas
+* Mezclar las claras y el azúcar, sin batir demasiado.
+* Poner 30! en el microondas y luego batir por 60".
+* Repetir 6 veces.
+* Con una manga, aplicar sobre la superficie de la crema. La crema ya debe estar fría para que tenga algo de rigidez, si no, será complicado aplicar el merengue.
+* Encender de nuevo el horno al mínimo, poniendo la tarta en una bandeja lo más alta posible, para que el calor ascendente seque el merengue y no cocine demasiado la masa.
+### Preparación sin cocción
+* Batir las claras e ir incorporando el azúcar y una cucharadita de cremor tártaro, hasta lograr un punto nieve.
 * Con una manga, aplicar sobre la superficie de la crema. La crema ya debe estar fría para que tenga algo de rigidez, si no, será complicado aplicar el merengue.
 * Encender de nuevo el horno al mínimo, poniendo la tarta en una bandeja lo más alta posible, para que el calor ascendente seque el merengue y no cocine demasiado la masa.
